@@ -1,0 +1,12 @@
+# 自动处理行尾结束符
+* text=auto
+
+# 指定特定文件类型的行尾结束符
+*.vue text eol=lf
+*.js text eol=lf
+*.ts text eol=lf
+*.json text eol=lf
+*.css text eol=lf
+*.scss text eol=lf
+*.html text eol=lf
+*.md text eol=lf 
